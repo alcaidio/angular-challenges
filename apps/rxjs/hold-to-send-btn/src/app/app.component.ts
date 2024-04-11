@@ -21,6 +21,10 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 })
 export class AppComponent {
   onSend() {
+<<<<<<< HEAD
     console.log('Save it!');
+=======
+    console.log('Send it!');
+>>>>>>> 5454770 (feat: add challenge 49)
   }
 }
